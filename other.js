@@ -4,4 +4,6 @@ const findNumber = (number) => {
 };
 
 console.log(findNumber(3));
-console.log(findNumber(7));
+console.log(findNumber(4));
+console.log(findNumber(1));
+
